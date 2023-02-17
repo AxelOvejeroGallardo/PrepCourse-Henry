@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Heste es un repositorio del modulo2 del Prepcourse de Henry
+Este es un proyecto de para probar como crear un repositorio y clonarlo desde github a mi repositorio local.
